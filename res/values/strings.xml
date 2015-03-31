@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mp3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mp3list.update">更新列表</string>
+    <string name="mp3list.about">关于</string>
+    
+    <string-array name="PlayState">
+		<item>顺序播放</item>
+		<item>随机播放</item>
+		<item>单曲循环</item>
+	</string-array>
+
+</resources>
